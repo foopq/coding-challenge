@@ -1,4 +1,16 @@
 
+
+THIS IS NOW OBSOLETE. PLEASE LOOK AT MY HASKELL VERSION AT:
+
+https://github.com/foopq/coding-challenge-haskell
+
+
+
+
+
+
+
+
 Requirements:
 
     This was built on an up to date Ubuntu system with gcc 4.4.3. 

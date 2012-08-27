@@ -6,6 +6,10 @@ Copyright (C) 2011 Chris A. Mennie
 License: Released under the GPL version 3 license. See the included LICENSE.
 */
 
+
+#error "This code is now obsolete. Please see new version at:  https://github.com/foopq/coding-challenge-haskell"
+
+
 #include "product.h"
 #include "listing.h"
 #include "datas.h"
